@@ -86,7 +86,7 @@ https://synset.de/datasets/synset-signset-ger/
 | Baseline CNN | 96.9% | 4.2% | - |
 | EfficientNet-B0 | 95.2% | 3.8% | - |
 | EfficientNet Robust | 87.0% | 2.1% | - |
-| EfficientNet Mixed | 95.1% | 50.6% | - |
+| EfficientNet Mixed | 95.1% | 5.6% | - |
 | EfficientNet Final | 94.9% | 58.4% | 56.2% |
 | EfficientNet SynsetMix | 94.8% | 59.2% | 69.5% |
 | SynsetMix v3 | 99.40% | 99.88%* | 91.14% |
